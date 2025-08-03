@@ -1,7 +1,12 @@
 {
-  "dependencies": {
-    "parcel": "^2.15.4",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1"
-  }
+ "scripts": {
+  "start": "parcel Index.html"
+ },
+ "dependencies": {
+  "react": "^19.1.1",
+  "react-dom": "^19.1.1"
+ },
+ "devDependencies": {
+  "parcel": "^2.15.4"
+ }
 }
